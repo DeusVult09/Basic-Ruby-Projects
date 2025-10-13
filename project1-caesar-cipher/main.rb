@@ -1,7 +1,5 @@
-
 puts "Enter your secret message here: "
 input = gets.chomp.chars()
-
 
 def caesar_cipher(string, num)
   result = []
